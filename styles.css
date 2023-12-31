@@ -1,0 +1,16 @@
+p {
+    margin-left: 20px; /* Adjust the value based on your preference for margin */
+}
+
+h {
+	margin-left: 50px;
+}
+a {
+    color: blue;
+    text-decoration: none; /* Remove default underlines */
+    transition: color 0.3s; /* Smooth color transition over 0.3 seconds */
+}
+
+a:hover {
+    color: yellow; /* Change to yellow on hover */
+}
